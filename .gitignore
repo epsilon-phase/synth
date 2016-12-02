@@ -1,0 +1,4 @@
+#lisp compilation files
+*.fasl
+#Sound files generated in previous tests
+*.pcm
